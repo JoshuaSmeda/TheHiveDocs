@@ -62,7 +62,7 @@ The most recent training VM includes:
 
 - Training VM system account (ssh) : `thehive/thehive1234`
 - TheHive URL : http://IP_OF_VM:9000
-- TheHive Admin account: `admin/thehive1234`
+- TheHive Admin account: `admin/thehive1234` # If using Hive4 - login: admin@thehive.local | password: secret (https://github.com/TheHive-Project/TheHiveDocs/blob/master/TheHive4/User/Quick-start.md)
 - Cortex URL : http://IP_OF_VM:9001
 - Cortex superAdmin account : `admin/thehive1234`
 - Cortex "training" Org admin account  : `thehive/thehive1234` (its key API is used to enable Cortex service in TheHive)
